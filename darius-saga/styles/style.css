@@ -2,6 +2,8 @@ html{
 	background-color: black;
 	margin: 15px 200px;
 	border: 2px solid #00ff00;
+	color: #00ff00;
+	font-family: digital;
 }
 
 #logo{
@@ -16,13 +18,21 @@ html{
 	margin: 0 auto;
 }
 
-h1, h2, p{
-	color: #00ff00;
-	font-family: digital;
+h1, h2, h3, p{
 }
 
 h1, h2{
 	text-align: center;
+}
+
+h2{
+	font-size: 32px;
+	margin: 6px auto;
+}
+
+h3{
+	font-size: 24px;
+	margin: 6px auto;
 }
 
 p{
