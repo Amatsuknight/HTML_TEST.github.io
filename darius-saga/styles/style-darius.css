@@ -18,6 +18,12 @@ html{
 	margin: 0 auto;
 }
 
+#cabinet{
+	display: block;
+	width: 600px;
+	margin: 0 auto;
+}
+
 h1, h2, h3, p{
 }
 
