@@ -1,9 +1,15 @@
 html{
+	font-family: puisi;
 }
 
-body{
+button{
+	font-family: puisi;
 }
 
-.top-panel{
-	font-size: 2px;
+#logo{
+	width: 128px;
+}
+
+#top-button1,#top-button2,#top-button3{
+	font-size: 32px;
 }
